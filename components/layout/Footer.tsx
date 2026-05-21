@@ -56,7 +56,7 @@ export default function Footer() {
 
         <div className="mt-10 pt-6 border-t border-gray-200 flex flex-col md:flex-row items-start md:items-center justify-between gap-3">
           <p className="text-xs text-gray-500 max-w-xl leading-relaxed">
-            Projeto acadêmico — piloto em Salvador, Bahia. Dados de impacto
+            Projeto apresentado no Hackaton no evento BaIA, 2026 — piloto em Salvador, Bahia. Dados de impacto
             com fontes referenciadas.
           </p>
           <p className="text-xs text-gray-500">

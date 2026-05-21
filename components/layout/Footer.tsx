@@ -1,6 +1,5 @@
 import Link from "next/link";
 import Logo from "@/components/ui/Logo";
-
 const links = [
   { href: "/como-funciona", label: "Como Funciona" },
   { href: "/creditos-de-carbono", label: "Créditos de Carbono" },
@@ -15,9 +14,7 @@ export default function Footer() {
         <div className="grid md:grid-cols-3 gap-8">
           <div className="space-y-3">
             <div className="flex items-center gap-2">
-              <span className="inline-flex h-7 w-7 items-center justify-center rounded-md bg-green-600 text-white text-xs font-bold">
-                B
-              </span>
+              <img src="/icon.svg" alt="BioPoints logo" width={32} height={32} />
               <Logo className="text-lg" />
             </div>
             <p className="text-sm text-gray-600 leading-relaxed max-w-xs">

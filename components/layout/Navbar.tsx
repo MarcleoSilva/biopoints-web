@@ -4,6 +4,7 @@ import Link from "next/link";
 import { useEffect, useState } from "react";
 import Logo from "@/components/ui/Logo";
 
+
 const navLinks = [
   { href: "/como-funciona", label: "Como Funciona" },
   { href: "/creditos-de-carbono", label: "Créditos de Carbono" },
@@ -42,12 +43,7 @@ export default function Navbar() {
           className="flex items-center gap-2 focus-ring rounded-md"
           aria-label="BioPoints — home"
         >
-          <span
-            className="inline-flex h-7 w-7 items-center justify-center rounded-md bg-green-600 text-white text-xs font-bold"
-            aria-hidden
-          >
-            B
-          </span>
+          <img src="/icon.svg" alt="BioPoints logo" width={32} height={32} />
           <Logo className="text-lg" />
         </Link>
 

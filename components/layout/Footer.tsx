@@ -14,7 +14,7 @@ export default function Footer() {
         <div className="grid md:grid-cols-3 gap-8">
           <div className="space-y-3">
             <div className="flex items-center gap-2">
-              <img src="/icon.svg" alt="BioPoints logo" width={32} height={32} />
+              <img src="/biopoints-web/icon.svg" alt="BioPoints logo" width={32} height={32} />
               <Logo className="text-lg" />
             </div>
             <p className="text-sm text-gray-600 leading-relaxed max-w-xs">

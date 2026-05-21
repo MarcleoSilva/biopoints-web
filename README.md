@@ -135,5 +135,5 @@ Todas as estatísticas exibidas na landing page têm fonte verificável e linkad
 
 ## Licença
 
-Projeto acadêmico — piloto em Salvador, Bahia.
+Projeto Apresentado para o Hackaton do evento BaIA, 2026 — piloto em UFBA, Salvador, Bahia.
 

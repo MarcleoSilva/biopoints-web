@@ -4,6 +4,7 @@ const nextConfig = {
   basePath: "/biopoints-web",
   trailingSlash: true,
   reactStrictMode: true,
+  images: { unoptimized: true },
 };
 
 module.exports = nextConfig;

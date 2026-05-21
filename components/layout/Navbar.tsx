@@ -1,6 +1,7 @@
 "use client";
 
 import Link from "next/link";
+import Image from "next/image";
 import { useEffect, useState } from "react";
 import Logo from "@/components/ui/Logo";
 
@@ -43,7 +44,7 @@ export default function Navbar() {
           className="flex items-center gap-2 focus-ring rounded-md"
           aria-label="BioPoints — home"
         >
-          <img src="/icon.svg" alt="BioPoints logo" width={32} height={32} />
+          <Image src="/icon.svg" alt="BioPoints logo" width={32} height={32} />
           <Logo className="text-lg" />
         </Link>
 

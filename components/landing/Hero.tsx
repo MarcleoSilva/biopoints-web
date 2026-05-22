@@ -56,7 +56,7 @@ export default function Hero() {
             style={{ animationDelay: "220ms" }}
           >
             A BioPoints converte as emissões que você evita em recompensas
-            reais — usando IA para calcular seu impacto e transformá-lo em
+            reais, usando IA para calcular seu impacto e transformá-lo em
             valor financeiro direto.
           </p>
 

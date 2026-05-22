@@ -14,7 +14,7 @@ export default function CarbonCredits() {
             </h2>
             <p className="mt-5 text-gray-600 leading-relaxed">
               Os dados que a BioPoints registra alimentam o ecossistema
-              brasileiro de créditos de descarbonização — e abrem caminho para
+              brasileiro de créditos de descarbonização e abrem caminho para
               relatórios de ESG robustos para os postos parceiros.
             </p>
             <Link
@@ -42,7 +42,7 @@ export default function CarbonCredits() {
                 Representa a redução ou remoção de{" "}
                 <strong className="text-gray-900">1 tonelada de CO₂</strong> da
                 atmosfera. Empresas que emitem acima do permitido compram
-                créditos de quem reduz emissões — convertendo sustentabilidade
+                créditos de quem reduz emissões, convertendo sustentabilidade
                 em ativo financeiro.
               </p>
             </article>
@@ -61,7 +61,7 @@ export default function CarbonCredits() {
                 <strong className="text-gray-900">
                   Créditos de Descarbonização (CBIOs)
                 </strong>{" "}
-                — certificados negociáveis emitidos por produtores de
+                 certificados negociáveis emitidos por produtores de
                 biocombustível. O BioPoints se alinha a esse ecossistema,
                 operacionalizando o incentivo no nível do consumidor final.
               </p>

@@ -3,7 +3,7 @@ const principles = [
     emoji: "🌱",
     title: "Incentivar, não obrigar",
     description:
-      "Mudança de comportamento sustentável acontece quando há benefício real e imediato para o motorista — não por punição.",
+      "Mudança de comportamento sustentável acontece quando há benefício real e imediato para o motorista, não por punição.",
   },
   {
     emoji: "📊",

@@ -88,7 +88,7 @@ export default function HowItWorks() {
             Quatro passos, do bico ao bolso.
           </h2>
           <p className="mt-4 text-gray-600 leading-relaxed">
-            Da bomba ao banco — o ciclo completo de recompensa por
+            Da bomba ao banco, o ciclo completo de recompensa por
             biocombustível, totalmente automatizado.
           </p>
         </div>

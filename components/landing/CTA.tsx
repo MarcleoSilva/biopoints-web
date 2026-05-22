@@ -23,7 +23,7 @@ export default function CTA() {
           Pronto para testar a plataforma?
         </h2>
         <p className="mt-5 text-lg text-green-100 max-w-xl mx-auto leading-relaxed">
-          Acesse a área de demonstração e simule um cadastro completo —
+          Acesse a área de demonstração e simule um cadastro completo,
           do veículo ao abastecimento.
         </p>
 
